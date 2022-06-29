@@ -1,0 +1,50 @@
+                      representation
+
+
+                       How does the web work?
+
+
+The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client (you go to the shop and order your goods). This message, and all other data sent between the client and the server, is sent across your internet connection using TCP/IP
+
+                  What do you need to be a webdeveloper?
+
+1. Learn Web Development Fundamentals
+The best first step to becoming a Web Developer is to start learning web development fundamentals, including an understanding of HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript
+
+2. Choose a Development Specialization
+Front-End Developer : A Front-End Developer works on the “client-side” of web development, meaning any portion of the site or app that users interact with. This can include a site’s layout, design, and the way users interact with it.
+
+Back-End Developer : A Back-End Developer works on the “server-side” of web development. This is focused on the way a site functions and can include databases, servers, networks and hosting, and more.
+
+Full-Stack Developer : A Full-Stack Developer is familiar with both front-and back-end development and works with both sides of a website.
+
+3. Learn Key Programming Languages for Web Development
+
+Whatever your area of concentration, you’ll need to learn to code and know how to use a handful of different programming languages for web development and web design. So, what are the most common programming languages?
+
+Three families of programming languages form the basic tools involved in virtually all aspects of web development:
+
+HTML (Hypertext Markup Language)
+CSS (Cascading Style Sheets)
+JavaScript
+
+Of course, the list goes on – these are just the beginning. In fact, web development is such a diverse and varied field that the list of all the tasks it can include (and all the coding languages and markup languages you might use to accomplish them) is too long to fit in this space. Fortunately, as a specialist, you can find and concentrate on the ones that work best for you.
+
+4. Build Projects to Develop Your Web Developer Skills
+
+With a grasp of the basics in HTML, CSS, and JavaScript, and a foundation of programming skills, you’re ready to begin building. As you go, you’ll gain experience using an ever-growing set of Web Developer skills. Some of these are technical skills, or “hard” skills, like programming in SQL or Python, using the jQuery library of functions for more efficient programming, or using tools like Git for version control. The best way to improve these web development skills is simply to start messing around – the more you use them, the better you’ll be.
+There are also a number web design skills that are useful for Web Developers to have, with an understanding that responsive design is perhaps the most crucial. While Web Developers are not typically tasked with the overall site design, it’s an advantage for Developers to also have a solid understanding of common design principles. Front-End Developers, in particular, program the screens that users interact with – and they can be far more successful with a good grasp of user-centered design.
+
+5. Build a Web Development Portfolio
+
+A riveting Web Developer portfolio that shows off your strongest skills is your best tool when applying for web development jobs. There are three things to keep in mind when building a portfolio that will stand out from the pack.
+
+First, your Web Developer portfolio should include a diverse selection of web development work. You don’t want to use every project you’ve ever worked on – your professional portfolio should be a highlight reel that not only demonstrates your best work, but shows your versatility. You want to be selective and highlight your best work, but your selection should be diverse enough that it demonstrates a solid understanding of the various elements of the position. When applying for Web Developer jobs, do a bit of research into the company and the role you’re looking to fill – then refine your portfolio even further, editing out unrelated examples and spotlighting your most relevant work.
+
+Second, think about what makes you and your work unique. Emphasize the web development skills that most make you stand out – not just in the work you include in your portfolio, but in how the portfolio itself is presented. If you’re applying for design-related roles, for instance, your portfolio website should have a solid front end – a great user experience with a beautiful interface. And if you’re applying for a Web Developer role, ensure that your portfolio is displayed on a flawless site. That means no messy code.
+
+Third, show your process. Employers aren’t looking only at the quality of work you produce, but at how you approach problems. Don’t be afraid to frame each example as a case study, providing a narrative of your thought process and the problem you were trying to solve with the project. Showing background on how your projects were created will help Recruiters and Hiring Managers make sense of your work, and say more than just a standalone piece. This is also a great opportunity to demonstrate your communication skills – an important part of excelling in a position.
+
+            Why did you choose to learn web development?
+
+Personally, I chose web development because if we see from the perspective of what is material, it has important financial benefits and has become in great demand, and you can quickly get out of work. The other motive and the important thing is that I am obsessed with this world and I like to make something out of nothing with my own idea  and effort.
